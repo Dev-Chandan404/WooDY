@@ -1,4 +1,3 @@
-
 ================================================================================
 WooDY — Static Frontend Project
 Author  : Dev-Chandan404
@@ -128,5 +127,6 @@ No license file currently included.
 Add a license if redistribution is intended.
 
 ================================================================================
+
 💡 This project is for learning and front-end development practice.
 ================================================================================
