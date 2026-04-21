@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://dev-chandan404.github.io/WooDY/">
-  <img src="https://api.screenshotone.com/take?url=https://dev-chandan404.github.io/WooDY/&viewport_width=1280&viewport_height=720&format=jpg&image_quality=90" alt="WooDY Website Preview" width="90%" />
+  <img src="./img/w.png" alt="WooDY Website Preview"/>
 </a>
 
 *WooDY — Elegant one-page template with smooth scrolling & cinematic fade-in animations*
